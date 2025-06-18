@@ -15,6 +15,7 @@ Welcome to pyvsf's documentation!
    :maxdepth: 2
 
    Install
+   Primer
    Usage
    pages/Example
    pages/Example-simulation
